@@ -1,8 +1,8 @@
 ### Main values of n3point
-- Tell the truth
-- Clarify
-- Simplify
-- Face the unpleasant
-- You don't know, what is like. Experiment
-- There's always an entrypoint
-- If these set of values didn't bring up the answer on how to act in 1 minute - rebuild the values
+1. Tell the truth
+2. Clarify
+3. Simplify
+4. Face the unpleasant
+5. You don't know, what is like. Experiment
+6. There's always an entrypoint
+7. If these set of values didn't bring up the answer on how to act in 1 minute - rebuild the values
