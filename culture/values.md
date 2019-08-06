@@ -1,4 +1,4 @@
-### Main values of n3point
+### Values
 1. Tell the truth
 2. Clarify
 3. Simplify
