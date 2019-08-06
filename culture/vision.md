@@ -1,3 +1,4 @@
 ### Main values of n3point
-- Clarity
-- Simplicity
+- Clarify
+- Simplify
+- There's always an entrypoint
